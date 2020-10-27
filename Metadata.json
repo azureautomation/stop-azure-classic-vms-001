@@ -1,7 +1,7 @@
 {
     "Author": "Azure Automation Product Team",
     "ContentSize": 43738,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-classic-vms#001/master/StopAzureClassicVM.graphrunbook",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-classic-vms-001/master/StopAzureClassicVM.graphrunbook",
     "DownloadCount": 3716,
     "Id": "Stop-Azure-Classic-VM-397819bd",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This Graphical PowerShell Workflow runbook gets all of your Azure VMs or just the VMs in a service and then stops the ones that are started.  You can import and use this runbook in the Azure portal.",
     "Title": "Stop Azure Classic VMs",
     "UpdatedDate": "2016-5-18T00:00:00",
-    "Url": "https://github.com/azureautomation/stop-azure-classic-vms#001",
+    "Url": "https://github.com/azureautomation/stop-azure-classic-vms-001",
     "UserTags": "Windows Azure Virtual Machines, Azure Automation, VM Lifecycle Management"
 }
